@@ -1,0 +1,1 @@
+python -c "from bot import run_bot_with_commands; run_bot_with_commands()"
